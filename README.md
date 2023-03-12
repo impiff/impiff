@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/impiff/impiff/main/Piff%20Logo%20Light.png"  />
+  <img height="150" src="https://raw.githubusercontent.com/impiff/impiff/main/Piff%20Logo%20Light.png"  />
 </div>
 
 ###
@@ -14,28 +14,9 @@
 
 <br clear="both">
 
-<h1 align="center">Lauguages i code in...</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h1 align="center">Trying to contact me?</h1>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/impiffgram/" target="_blank">
